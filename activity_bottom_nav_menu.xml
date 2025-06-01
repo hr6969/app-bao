@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Trang chủ" />
+    <item
+        android:id="@+id/nav_bookmark"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="Đã lưu" />
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Tìm kiếm" />
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="Cài đặt" />
+</menu>
